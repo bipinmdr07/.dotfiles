@@ -1,0 +1,37 @@
+.sites/
+
+# Compiled Python files
+*.pyc
+
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+*.swp
+*.swo
+*.orig
+
+.\#*
+\#*
+
+tags
+tags_sorted_by_file
+*.iml
+.gemtags
+.tags
+
+# JAVA IGNORE
+*.class
+*.jar
+
+# NODEJS IGNORE
+node_modules/
+.tern-port
